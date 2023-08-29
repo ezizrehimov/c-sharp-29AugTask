@@ -1,0 +1,7 @@
+C:\Users\Ezizchik\source\repos\26AugClass\26AugClass\bin\Debug\26AugClass.exe.config
+C:\Users\Ezizchik\source\repos\26AugClass\26AugClass\bin\Debug\26AugClass.exe
+C:\Users\Ezizchik\source\repos\26AugClass\26AugClass\bin\Debug\26AugClass.pdb
+C:\Users\Ezizchik\source\repos\26AugClass\26AugClass\obj\Debug\26AugClass.csproj.AssemblyReference.cache
+C:\Users\Ezizchik\source\repos\26AugClass\26AugClass\obj\Debug\26AugClass.csproj.CoreCompileInputs.cache
+C:\Users\Ezizchik\source\repos\26AugClass\26AugClass\obj\Debug\26AugClass.exe
+C:\Users\Ezizchik\source\repos\26AugClass\26AugClass\obj\Debug\26AugClass.pdb
